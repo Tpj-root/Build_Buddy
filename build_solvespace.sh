@@ -4,6 +4,10 @@
 # OS   : Debian GNU/Linux 12 (bookworm) x86_64
 # Kernel: 6.1.0-29-amd64
 # ==========================================================
+# TUTORIAL: DRAWING AN ANGLE BRACKET
+#
+# https://solvespace.com/bracket.pl
+# ==========================================================
 
 # --- Step 1: Install the prebuilt .deb package (easy method)
 # This installs SolveSpace directly from Debian’s official repository.
