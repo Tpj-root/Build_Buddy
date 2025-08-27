@@ -6,6 +6,19 @@ Kernel: 6.1.0-29-amd64
 
 
 
+
+SolveSpace 3.1
+```
+sudo apt install solvespace
+```
+
+
+
+
+
+
+
+
 ```
 
 sudo apt install git build-essential cmake zlib1g-dev libpng-dev \
