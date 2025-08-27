@@ -29,6 +29,42 @@ Friendly bash scripts to automate building and compiling software projects.
 | Robotics Library (RL) | [3.2](https://github.com/solvespace/solvespace/commit/74a13ef6)     | 0 | 12.9      |  YES 3.1 | [build](https://github.com/Tpj-root/Build_Buddy/blob/main/build_solvespace.sh) |        Y(good)     |  - | 
 | papercraft            |                                                                     | 0 |           |  YES |                                                                                    |        Y(good)     |  - | 
 | fstl                  | [3.2](https://github.com/solvespace/solvespace/commit/74a13ef6)   | 0 | 0.10.0 |  YES 0.11.0|                                                                                    |        Y(good)     |  - | 
+| erizo                  | [](https://github.com/Tpj-root/erizo)   | 0 |  |  YES |                                                                                    |        Y(good)     |  - | 
+| microshell                  | [](https://github.com/marcinbor85/microshell.git)   | 0 |  |  YES |                                                                                    |        Y(good)     |  - | 
+| spdlog                  | [](github.com/gabime/spdlog.git)   | 0 |  |  YES |                                                                                    |        Y(good)     |  - | 
+| termcolor                  | [](github.com/ikalnytskyi/termcolor.git)   | 0 |  |  YES |                                                                                    |        Y(good)     |  - | 
+
+
+
+
+
+
+```
+
+
+
+
+Fast C++ logging library. 
+
+github.com/gabime/spdlog.git
+
+Debian: sudo apt install libspdlog-dev
+
+
+
+
+github.com/ikalnytskyi/termcolor.git
+
+
+```
+
+```
+MicroShell is a lightweight pure C implementation of shell emulator dedicated for embedded bare-metal systems.
+
+
+https://github.com/marcinbor85/microshell.git
+
+````
 
 
 
