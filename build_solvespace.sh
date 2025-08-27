@@ -60,5 +60,5 @@ make
 # ==========================================================
 # End of script
 # After build completes, you can run the SolveSpace binary from:
-#   ./src/solvespace
+#   ./bin/solvespace
 # ==========================================================
