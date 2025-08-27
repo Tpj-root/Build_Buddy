@@ -7,6 +7,14 @@
 # TUTORIAL: DRAWING AN ANGLE BRACKET
 #
 # https://solvespace.com/bracket.pl
+# https://solvespace.com/box.pl
+# https://solvespace.com/constraints.pl
+# https://solvespace.com/linkage.pl
+# https://solvespace.com/2d.pl
+# https://solvespace.com/ref.pl
+# https://solvespace.com/features.pl
+# https://solvespace.com/tutorial.pl
+# https://bkhome.org/news/201911/solvespace-parametric-3d-cad-in-easyos.html
 # ==========================================================
 
 # --- Step 1: Install the prebuilt .deb package (easy method)
