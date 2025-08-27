@@ -27,7 +27,7 @@ Friendly bash scripts to automate building and compiling software projects.
 
 | Name       | Version | Kernel   | Debian Version | Debian_package                                             | Build Script          | Tested (Y/N) | Description                                                                 |
 | ---------- | ------- | -------- | -------------- | ---------------------------------------------------------- | --------------------- | ------------ | --------------------------------------------------------------------------- |
-| SolveSpace | [3.2](https://github.com/solvespace/solvespace/commit/74a13ef6)     | 0 | 12.9      |  YES 3.1 | `build_solvespace.sh` |        Y(good)     |  - | 
+| SolveSpace | [3.2](https://github.com/solvespace/solvespace/commit/74a13ef6)     | 0 | 12.9      |  YES 3.1 | [build](https://github.com/Tpj-root/Build_Buddy/blob/main/build_solvespace.sh) |        Y(good)     |  - | 
 | GIMP       | 2.10.34 | 0 | 12      |  -  | `build_gimp.sh`       |             |  - | 
 | OpenCV     | 4.9.0   | 0 | 12      |  -  | `build_opencv.sh`     |             |  - | 
 | FFmpeg     | 6.1     | 0 | 12      |  -  | `build_ffmpeg.sh`     |             |  - | 
