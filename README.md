@@ -16,16 +16,17 @@ Friendly bash scripts to automate building and compiling software projects.
 | 0| 6.1.0-29-amd64    |
 
 
-| NO| Debian Version |
-|---|----------------|
-| 12| Debian 12      |
+| NO | Debian Version | Download Link |
+|----|----------------|---------------|
+| 12 | Debian 12      | –             |
+| 13 | Debian 13      | [ISO DVD](https://mirror.accum.se/debian-cd/current/amd64/iso-dvd/) |
 
 
 
 
-| Name       | Version | Kernel   | Debian Version | Dependencies                                               | Build Script          | Tested (Y/N) | Description                                                                 |
+| Name       | Version | Kernel   | Debian Version | Debian_package                                             | Build Script          | Tested (Y/N) | Description                                                                 |
 | ---------- | ------- | -------- | -------------- | ---------------------------------------------------------- | --------------------- | ------------ | --------------------------------------------------------------------------- |
-| SolveSpace | 3.1     | 0 | 12      |  -  | `build_solvespace.sh` |             |  - | 
+| SolveSpace | 3.1     | 0 | 12      |  YES 3.1 | `build_solvespace.sh` |             |  - | 
 | GIMP       | 2.10.34 | 0 | 12      |  -  | `build_gimp.sh`       |             |  - | 
 | OpenCV     | 4.9.0   | 0 | 12      |  -  | `build_opencv.sh`     |             |  - | 
 | FFmpeg     | 6.1     | 0 | 12      |  -  | `build_ffmpeg.sh`     |             |  - | 
